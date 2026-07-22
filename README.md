@@ -1,25 +1,43 @@
-# resumo-do-lab-azure
+# Bootcamp Microsoft Azure AZ-900 - DIO
 
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do laboratório da DIO no bootcamp **Microsoft Azure AZ-900**.
+## 📖 Sobre o repositório
 
-Durante o laboratório, a professora Valéria Baptista faz um overview da plataforma Microsoft Azure, explicando, de forma geral, algumas ferramentas e serviços fornecidos pela nuvem da Microsoft. A seguir, serão apresentados os principais pontos abordados durante o laboratório.
+Este repositório foi criado para armazenar os resumos, anotações e desafios desenvolvidos durante o **Bootcamp Microsoft Azure AZ-900** oferecido pela **DIO (Digital Innovation One)**.
 
-## Serviços gratuitos
+O objetivo é centralizar todo o conteúdo estudado, documentando os principais conceitos de computação em nuvem, serviços do Microsoft Azure e boas práticas apresentadas ao longo do curso. Além disso, este repositório também reúne os desafios propostos durante o bootcamp, todos organizados em arquivos **Markdown (.md)**, facilitando a consulta e o acompanhamento da evolução do aprendizado.
 
-Ao utilizar uma conta gratuita, pode ser que você encontre restrições para criar alguns recursos específicos. Nem todos os recursos ou regiões estão disponíveis para contas gratuitas. No entanto, o portal do Microsoft Azure é praticamente o mesmo para qualquer tipo de conta, seja ela gratuita ou paga.
+## 🎯 Objetivos
 
-## Serviços
+* Registrar os principais conceitos abordados nas aulas;
+* Consolidar o aprendizado por meio de resumos em Markdown;
+* Armazenar os desafios e atividades práticas desenvolvidas durante o bootcamp;
+* Criar um material de consulta para estudos futuros;
+* Compartilhar conhecimento com a comunidade.
 
-No painel do Azure, na seção **Todos os serviços**, temos acesso a todos os serviços disponibilizados pela plataforma, organizados por categorias, como IA + Machine Learning, Análises, Computação, Contêineres, Banco de Dados, DevOps, entre outras.
+## 🚀 Tecnologias e ferramentas
 
-## Bastions
+* Microsoft Azure
+* Git
+* GitHub
+* Markdown
 
-Durante o overview, também foi apresentado o serviço de rede chamado **Azure Bastion**, um serviço de segurança da Microsoft que permite acessar máquinas virtuais (VMs) de forma segura, sem a necessidade de expor endereços IP públicos.
+## 📚 Conteúdo
 
-## Serviços em versão prévia
+Ao longo do bootcamp serão abordados temas como:
 
-É importante ter cuidado ao utilizar serviços que estão em versão prévia (Preview). Esses serviços podem ser descontinuados a qualquer momento por decisão da Microsoft. Por isso, não é recomendado utilizá-los em ambientes de produção, evitando possíveis interrupções ou incompatibilidades.
+* Conceitos de Computação em Nuvem;
+* Modelos de Nuvem (Pública, Privada e Híbrida);
+* Benefícios da Computação em Nuvem;
+* Serviços do Microsoft Azure;
+* Segurança, Governança e Compliance;
+* Custos e SLA;
+* Identidade, Redes e Armazenamento;
+* Exercícios e desafios práticos.
 
-Além disso, serviços em versão prévia não possuem SLA (*Service Level Agreement*), ou seja, não há garantia de disponibilidade, suporte ou continuidade do serviço.
+## 📝 Observação
 
-Ao final do laboratório, a professora incentiva os alunos a explorarem os recursos disponibilizados pela plataforma. Dessa forma, cada aluno pode praticar por conta própria e aprender a utilizar os diversos serviços oferecidos pelo Microsoft Azure.
+Este repositório possui fins educacionais e representa minha jornada de aprendizado durante o Bootcamp Microsoft Azure AZ-900 da DIO. Os resumos foram elaborados com base nas aulas e materiais disponibilizados ao longo do curso.
+
+---
+
+⭐ Caso este conteúdo seja útil para você, fique à vontade para explorar o repositório e acompanhar sua evolução.
